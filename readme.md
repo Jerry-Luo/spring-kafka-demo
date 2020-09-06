@@ -1,3 +1,3 @@
-#Spring kafka demo
+# Spring kafka demo
 
 Demostration for spring kafka.
